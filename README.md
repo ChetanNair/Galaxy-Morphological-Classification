@@ -1,11 +1,13 @@
 # Galaxy Morphology Classification
 
 ## Overview
-This project looks at classifying galaxies morphologically from their images. 
+This project looks at using a convolutional neural network (CNN) to classify galaxies morphologically from their images. A CNN has been built and trained on data in order to be able to classify whether they are spiral, ellipse, barred-spiral etc. based on their images. 
 
 # Getting Started
 ## Dependencies
-keras, numpy, pandas
+* keras 
+* numpy 
+* pandas
 
 ## Dataset
 https://data.galaxyzoo.org
